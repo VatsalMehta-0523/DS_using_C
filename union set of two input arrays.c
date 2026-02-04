@@ -77,3 +77,5 @@ void remove_dupplicates(int arr[] , int *n ){  // function to remove duplicate e
     }
     *n = j ;   // updating size of array .
 }
+
+// End of code
